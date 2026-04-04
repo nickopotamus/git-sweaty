@@ -11627,6 +11627,12 @@
       "hour": 6,
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-04-04",
+      "hour": 6,
+      "type": "Ride",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -26952,6 +26958,15 @@
           "distance": 38772.2,
           "elevation_gain": 59.0,
           "moving_time": 3622.0
+        },
+        "2026-04-04": {
+          "activity_ids": [
+            17970007524
+          ],
+          "count": 1,
+          "distance": 38252.1,
+          "elevation_gain": 59.0,
+          "moving_time": 3634.0
         }
       },
       "Run": {
@@ -27467,7 +27482,7 @@
       }
     }
   },
-  "generated_at": "2026-04-03T15:41:12.651737+00:00",
+  "generated_at": "2026-04-04T15:36:15.222703+00:00",
   "type_meta": {
     "OtherSports": {
       "accent": "#f5c2ff",
