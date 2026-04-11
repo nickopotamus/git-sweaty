@@ -19448,5 +19448,45 @@
     "start_date_local": "2026-04-08T17:10:31Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-10",
+    "distance": 105328.0,
+    "elevation_gain": 931.0,
+    "id": 18055332329,
+    "moving_time": 14890.0,
+    "start_date_local": "2026-04-10T11:26:51Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": 18062977494,
+    "moving_time": 2998.0,
+    "start_date_local": "2026-04-11T09:31:17Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 13915.0,
+    "elevation_gain": 169.0,
+    "id": 18067160945,
+    "moving_time": 5122.0,
+    "start_date_local": "2026-04-11T13:53:43Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": 18067267311,
+    "moving_time": 373.0,
+    "start_date_local": "2026-04-11T15:21:51Z",
+    "type": "OtherSports",
+    "year": 2026
   }
 ]
