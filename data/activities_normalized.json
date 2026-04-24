@@ -25530,5 +25530,18 @@
     "start_date_local": "2026-04-23T18:09:25Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-24",
+    "distance": 5836.0,
+    "elevation_gain": 63.0,
+    "id": "18234762967",
+    "moving_time": 2281.0,
+    "name": "3-minute power test",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-24T06:05:17Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
