@@ -25556,5 +25556,31 @@
     "start_date_local": "2026-04-25T09:33:41Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-26",
+    "distance": 1992.9,
+    "elevation_gain": 4.0,
+    "id": "18261341843",
+    "moving_time": 683.0,
+    "name": "Junior Parkrace with Amelia",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-26T09:04:55Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-26",
+    "distance": 10083.1,
+    "elevation_gain": 98.0,
+    "id": "18264476319",
+    "moving_time": 3381.0,
+    "name": "Easy CD 10k",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-26T10:09:42Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
