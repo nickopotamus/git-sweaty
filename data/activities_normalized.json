@@ -25582,5 +25582,31 @@
     "start_date_local": "2026-04-26T10:09:42Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-27",
+    "distance": 53017.4,
+    "elevation_gain": 582.0,
+    "id": "18274750974",
+    "moving_time": 6310.0,
+    "name": "Zwift - Group Ride: Long Steady Distance: Dust in the Wind",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-27T05:30:22Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-27",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18277970341",
+    "moving_time": 2806.0,
+    "name": "Lunch Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-27T12:41:41Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
