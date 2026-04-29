@@ -25621,5 +25621,31 @@
     "start_date_local": "2026-04-28T05:53:57Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-29",
+    "distance": 40162.2,
+    "elevation_gain": 332.0,
+    "id": "18301627551",
+    "moving_time": 4229.0,
+    "name": "Zwift - Group Workout: Aerobic Threshold Development",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-29T05:29:59Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-29",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18305443888",
+    "moving_time": 3396.0,
+    "name": "Lunch Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-29T12:35:58Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
