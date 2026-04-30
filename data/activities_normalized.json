@@ -25647,5 +25647,18 @@
     "start_date_local": "2026-04-29T12:35:58Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 27431.6,
+    "elevation_gain": 234.0,
+    "id": "18314768620",
+    "moving_time": 2365.0,
+    "name": "Zwift - TTT: WTRL Team Time Trial - Zone 1 (FRAPPE)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-30T05:15:18Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
