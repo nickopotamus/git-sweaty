@@ -25699,5 +25699,44 @@
     "start_date_local": "2026-05-04T09:53:45Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-04",
+    "distance": 25446.6,
+    "elevation_gain": 300.0,
+    "id": "18375478397",
+    "moving_time": 2496.0,
+    "name": "Zwift - Race: Club Ladder 14845",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-04T18:30:21Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-05",
+    "distance": 5022.4,
+    "elevation_gain": 38.0,
+    "id": "18380773958",
+    "moving_time": 1847.0,
+    "name": "Easy Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-05T05:42:32Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-05",
+    "distance": 13550.4,
+    "elevation_gain": 556.0,
+    "id": "18385188083",
+    "moving_time": 11833.0,
+    "name": "Why doesn\u2019t taking the stupid route up Winnats also count as a summit?",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-05T09:49:06Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
