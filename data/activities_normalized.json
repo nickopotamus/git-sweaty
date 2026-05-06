@@ -25738,5 +25738,44 @@
     "start_date_local": "2026-05-05T09:49:06Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-05-06",
+    "distance": 33352.7,
+    "elevation_gain": 620.0,
+    "id": "18394946346",
+    "moving_time": 4384.0,
+    "name": "Zwift - TrainerRoad: Troll",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-06T05:57:17Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-06",
+    "distance": 1200.0,
+    "elevation_gain": 0.0,
+    "id": "18397610893",
+    "moving_time": 1532.0,
+    "name": "\"Week 12 - Endurance\" Workout",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-05-06T11:47:54Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-06",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18398758124",
+    "moving_time": 3562.0,
+    "name": "Lunch Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-06T12:32:58Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
