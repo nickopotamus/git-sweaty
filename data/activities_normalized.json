@@ -25777,5 +25777,18 @@
     "start_date_local": "2026-05-06T12:32:58Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 62180.8,
+    "elevation_gain": 517.0,
+    "id": "18411227852",
+    "moving_time": 8247.0,
+    "name": "Non-coffee coffee ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-07T10:33:21Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
