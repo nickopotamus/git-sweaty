@@ -25816,5 +25816,18 @@
     "start_date_local": "2026-05-08T18:30:30Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-11",
+    "distance": 32358.4,
+    "elevation_gain": 417.0,
+    "id": "18463738518",
+    "moving_time": 3619.0,
+    "name": "Zwift - TrainerRoad: Norman Clyde -2",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-11T13:25:31Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
