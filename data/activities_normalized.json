@@ -25868,5 +25868,18 @@
     "start_date_local": "2026-05-14T10:10:23Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-15",
+    "distance": 17546.8,
+    "elevation_gain": 40.0,
+    "id": "18514176216",
+    "moving_time": 6333.0,
+    "name": "Car service long run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-15T08:43:14Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
