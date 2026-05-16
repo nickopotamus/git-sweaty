@@ -25881,5 +25881,18 @@
     "start_date_local": "2026-05-15T08:43:14Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 30923.4,
+    "elevation_gain": 367.0,
+    "id": "18524440423",
+    "moving_time": 3608.0,
+    "name": "Zwift - TrainerRoad: Chilly",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-16T06:07:08Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
