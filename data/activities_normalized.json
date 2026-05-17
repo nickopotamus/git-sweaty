@@ -25894,5 +25894,18 @@
     "start_date_local": "2026-05-16T06:07:08Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 35090.7,
+    "elevation_gain": 310.0,
+    "id": "18537632638",
+    "moving_time": 3690.0,
+    "name": "Zwift - TrainerRoad: Rendezvous",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-17T06:05:47Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
