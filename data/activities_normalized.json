@@ -25920,5 +25920,57 @@
     "start_date_local": "2026-05-18T05:41:52Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-18",
+    "distance": 20065.6,
+    "elevation_gain": 224.0,
+    "id": "18558128653",
+    "moving_time": 1998.0,
+    "name": "Zwift - Race: Club Ladder 15087",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-18T18:30:29Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 6862.3,
+    "elevation_gain": 67.0,
+    "id": "18564789043",
+    "moving_time": 2656.0,
+    "name": "3-min test",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-19T08:53:10Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 2025.0,
+    "elevation_gain": 0.0,
+    "id": "18567082589",
+    "moving_time": 3063.0,
+    "name": "\"Week 14 - Endurance\" Workout",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-05-19T11:55:28Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18569626704",
+    "moving_time": 4967.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-19T15:26:02Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
