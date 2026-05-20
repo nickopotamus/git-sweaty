@@ -25972,5 +25972,18 @@
     "start_date_local": "2026-05-19T15:26:02Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-20",
+    "distance": 34107.8,
+    "elevation_gain": 358.0,
+    "id": "18577441874",
+    "moving_time": 3638.0,
+    "name": "Zwift - TrainerRoad: Mansfield",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-20T05:41:32Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
