@@ -13992,6 +13992,13 @@
       "subtype": "VirtualRide",
       "type": "VirtualRide",
       "year": 2026
+    },
+    {
+      "date": "2026-05-21",
+      "hour": 6,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -29136,6 +29143,15 @@
           "distance": 62180.8,
           "elevation_gain": 517.0,
           "moving_time": 8247.0
+        },
+        "2026-05-21": {
+          "activity_ids": [
+            "18591247113"
+          ],
+          "count": 1,
+          "distance": 31190.4,
+          "elevation_gain": 292.0,
+          "moving_time": 4056.0
         }
       },
       "Rowing": {
@@ -30555,7 +30571,7 @@
       }
     }
   },
-  "generated_at": "2026-05-20T17:54:39.008295+00:00",
+  "generated_at": "2026-05-21T17:31:33.082075+00:00",
   "other_bucket": "OtherSports",
   "repo": "nickopotamus/git-sweaty",
   "source": "strava",

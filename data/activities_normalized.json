@@ -25985,5 +25985,18 @@
     "start_date_local": "2026-05-20T05:41:32Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-21",
+    "distance": 31190.4,
+    "elevation_gain": 292.0,
+    "id": "18591247113",
+    "moving_time": 4056.0,
+    "name": "Making sure James can remember how to ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-21T06:16:04Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
