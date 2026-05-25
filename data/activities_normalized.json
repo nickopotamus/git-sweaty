@@ -26011,5 +26011,31 @@
     "start_date_local": "2026-05-22T18:30:25Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18639428989",
+    "moving_time": 4564.0,
+    "name": "Evening Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-24T18:42:40Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-25",
+    "distance": 16004.5,
+    "elevation_gain": 152.0,
+    "id": "18643136726",
+    "moving_time": 5544.0,
+    "name": "Cops \ud83d\ude93 and robbers \ud83c\udfcd\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-25T05:32:25Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
