@@ -26037,5 +26037,18 @@
     "start_date_local": "2026-05-25T05:32:25Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-26",
+    "distance": 5004.3,
+    "elevation_gain": 48.0,
+    "id": "18663716744",
+    "moving_time": 1808.0,
+    "name": "Briefly escaping London",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-26T17:43:05Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
