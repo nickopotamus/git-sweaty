@@ -26050,5 +26050,31 @@
     "start_date_local": "2026-05-26T17:43:05Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-27",
+    "distance": 8801.5,
+    "elevation_gain": 86.0,
+    "id": "18679693820",
+    "moving_time": 3044.0,
+    "name": "Supra-threshold intervals",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-27T19:28:47Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-28",
+    "distance": 30511.7,
+    "elevation_gain": 548.0,
+    "id": "18685094770",
+    "moving_time": 3627.0,
+    "name": "Zwift - TrainerRoad: Rendezvous -1",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-28T06:41:20Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
