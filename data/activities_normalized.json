@@ -26089,5 +26089,18 @@
     "start_date_local": "2026-05-29T09:08:23Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-30",
+    "distance": 89092.5,
+    "elevation_gain": 882.0,
+    "id": "18717258102",
+    "moving_time": 12063.0,
+    "name": "Searching for roads without potholes",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-30T13:01:27Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
