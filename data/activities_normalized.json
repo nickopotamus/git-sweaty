@@ -26115,5 +26115,18 @@
     "start_date_local": "2026-05-31T09:03:49Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 9096.3,
+    "elevation_gain": 98.0,
+    "id": "18751401119",
+    "moving_time": 3258.0,
+    "name": "VO2max intervals",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-02T06:17:35Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
