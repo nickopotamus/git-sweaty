@@ -26128,5 +26128,18 @@
     "start_date_local": "2026-06-02T06:17:35Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-03",
+    "distance": 27918.0,
+    "elevation_gain": 240.0,
+    "id": "18765482411",
+    "moving_time": 2729.0,
+    "name": "Zwift - TrainerRoad: Ishika",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-03T05:52:53Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
