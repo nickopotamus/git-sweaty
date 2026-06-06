@@ -26167,5 +26167,31 @@
     "start_date_local": "2026-06-04T16:51:24Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-05",
+    "distance": 107967.0,
+    "elevation_gain": 1171.0,
+    "id": "18797198800",
+    "moving_time": 14850.0,
+    "name": "Too many horses",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-05T09:39:52Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 35679.8,
+    "elevation_gain": 233.0,
+    "id": "18809152301",
+    "moving_time": 3693.0,
+    "name": "Zwift - TrainerRoad: Beech",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-06T12:15:15Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
