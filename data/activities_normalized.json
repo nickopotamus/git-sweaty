@@ -26193,5 +26193,18 @@
     "start_date_local": "2026-06-06T12:15:15Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-07",
+    "distance": 21142.7,
+    "elevation_gain": 238.0,
+    "id": "18824540623",
+    "moving_time": 7329.0,
+    "name": "Mid-nights long run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-07T11:35:52Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
