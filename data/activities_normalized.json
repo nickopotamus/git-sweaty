@@ -26245,5 +26245,18 @@
     "start_date_local": "2026-06-09T05:42:10Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-10",
+    "distance": 8536.5,
+    "elevation_gain": 89.0,
+    "id": "18860348281",
+    "moving_time": 2983.0,
+    "name": "Near-threshold intervals",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-10T05:53:16Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
