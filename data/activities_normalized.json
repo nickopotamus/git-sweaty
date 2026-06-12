@@ -26271,5 +26271,18 @@
     "start_date_local": "2026-06-10T18:39:15Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-12",
+    "distance": 5233.8,
+    "elevation_gain": 65.0,
+    "id": "18886644355",
+    "moving_time": 1913.0,
+    "name": "Taper Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-12T06:21:07Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
