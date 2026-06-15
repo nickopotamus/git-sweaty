@@ -26284,5 +26284,18 @@
     "start_date_local": "2026-06-12T06:21:07Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-14",
+    "distance": 299118.0,
+    "elevation_gain": 4379.0,
+    "id": "18922626420",
+    "moving_time": 41479.0,
+    "name": "Dragon Ride, only backwards",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-14T06:37:02Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
