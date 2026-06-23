@@ -26349,5 +26349,18 @@
     "start_date_local": "2026-06-21T18:58:26Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-23",
+    "distance": 7024.9,
+    "elevation_gain": 64.0,
+    "id": "19031078737",
+    "moving_time": 2691.0,
+    "name": "3-min power test",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-23T05:56:04Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
