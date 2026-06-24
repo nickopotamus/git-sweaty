@@ -26362,5 +26362,31 @@
     "start_date_local": "2026-06-23T05:56:04Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-24",
+    "distance": 35291.6,
+    "elevation_gain": 197.0,
+    "id": "19044970436",
+    "moving_time": 3620.0,
+    "name": "Zwift - TrainerRoad: Ainslie",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-24T05:56:40Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19051403971",
+    "moving_time": 5831.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-24T14:24:27Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
