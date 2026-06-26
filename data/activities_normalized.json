@@ -26388,5 +26388,18 @@
     "start_date_local": "2026-06-24T14:24:27Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-26",
+    "distance": 2250.0,
+    "elevation_gain": 0.0,
+    "id": "19072942177",
+    "moving_time": 3407.0,
+    "name": "\"Week 19 - Endurance\" Workout",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-26T11:44:48Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
