@@ -26401,5 +26401,44 @@
     "start_date_local": "2026-06-26T11:44:48Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-06-27",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19087988690",
+    "moving_time": 4872.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-27T15:56:47Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 2026.2,
+    "elevation_gain": 8.0,
+    "id": "19094762284",
+    "moving_time": 722.0,
+    "name": "Junior Park Race",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-28T09:06:21Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 25415.5,
+    "elevation_gain": 159.0,
+    "id": "19094792317",
+    "moving_time": 8693.0,
+    "name": "Taking the long way to Park Race",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-28T06:36:32Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
