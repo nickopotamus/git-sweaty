@@ -26466,5 +26466,18 @@
     "start_date_local": "2026-06-29T06:30:41Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-30",
+    "distance": 30180.9,
+    "elevation_gain": 344.0,
+    "id": "19119261594",
+    "moving_time": 3717.0,
+    "name": "Zwift - TrainerRoad: Vigo",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-30T05:53:18Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
