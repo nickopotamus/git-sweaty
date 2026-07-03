@@ -26505,5 +26505,44 @@
     "start_date_local": "2026-07-02T05:30:16Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-02",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19154270770",
+    "moving_time": 4102.0,
+    "name": "Evening Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-07-02T18:25:35Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-03",
+    "distance": 9407.2,
+    "elevation_gain": 97.0,
+    "id": "19159086201",
+    "moving_time": 3331.0,
+    "name": "Maximal aerobic power intervals",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-03T05:50:52Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-03",
+    "distance": 1125.0,
+    "elevation_gain": 0.0,
+    "id": "19161818727",
+    "moving_time": 1644.0,
+    "name": "\"Week 20 - Endurance\" Workout",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-07-03T11:44:40Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
