@@ -26544,5 +26544,18 @@
     "start_date_local": "2026-07-03T11:44:40Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-07-05",
+    "distance": 30614.5,
+    "elevation_gain": 196.0,
+    "id": "19185467426",
+    "moving_time": 10800.0,
+    "name": "Not junior Parkrace",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-05T06:30:08Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
