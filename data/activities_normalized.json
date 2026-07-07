@@ -26557,5 +26557,44 @@
     "start_date_local": "2026-07-05T06:30:08Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-07",
+    "distance": 1950.0,
+    "elevation_gain": 0.0,
+    "id": "19213256509",
+    "moving_time": 2780.0,
+    "name": "\"Week 21 - Endurance\" Workout",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-07-07T11:33:14Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-07",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19213296691",
+    "moving_time": 5033.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-07-07T10:01:11Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-07",
+    "distance": 8901.9,
+    "elevation_gain": 102.0,
+    "id": "19215426947",
+    "moving_time": 3237.0,
+    "name": "Threshold intervals",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-07T14:36:27Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
