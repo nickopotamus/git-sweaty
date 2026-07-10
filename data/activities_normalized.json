@@ -26609,5 +26609,31 @@
     "start_date_local": "2026-07-09T05:30:18Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-10",
+    "distance": 31180.9,
+    "elevation_gain": 290.0,
+    "id": "19251864231",
+    "moving_time": 3688.0,
+    "name": "Preschool club",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-10T06:05:46Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-10",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19256564147",
+    "moving_time": 5733.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-07-10T13:10:33Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
