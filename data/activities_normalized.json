@@ -26635,5 +26635,44 @@
     "start_date_local": "2026-07-10T13:10:33Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-07-12",
+    "distance": 6001.3,
+    "elevation_gain": 71.0,
+    "id": "19285048255",
+    "moving_time": 2129.0,
+    "name": "Last day of summer and I\u2019m on nights",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-12T17:26:02Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-13",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19292196911",
+    "moving_time": 254.0,
+    "name": "Morning Row",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-07-13T10:59:06Z",
+    "type": "Rowing",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-13",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19293212010",
+    "moving_time": 4714.0,
+    "name": "Lunch Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-07-13T11:07:55Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
