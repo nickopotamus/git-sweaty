@@ -26726,5 +26726,18 @@
     "start_date_local": "2026-07-15T10:09:42Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-07-16",
+    "distance": 33875.3,
+    "elevation_gain": 406.0,
+    "id": "19332039986",
+    "moving_time": 3320.0,
+    "name": "Zwift - TTT: WTRL Team Time Trial - Zone 1 (FRAPPE)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-16T05:30:17Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
