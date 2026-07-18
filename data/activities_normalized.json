@@ -26759,10 +26759,36 @@
     "elevation_gain": 58.0,
     "id": "19346035848",
     "moving_time": 1744.0,
-    "name": "Morning Ride",
+    "name": "Why is my drivetrain so clicky?",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-07-17T07:08:12Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-17",
+    "distance": 12752.0,
+    "elevation_gain": 94.0,
+    "id": "19352250240",
+    "moving_time": 2148.0,
+    "name": "Fixed the clicking ride home",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-17T17:22:17Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-18",
+    "distance": 100384.0,
+    "elevation_gain": 991.0,
+    "id": "19359289833",
+    "moving_time": 12637.0,
+    "name": "Nice morning for a bit of Belvoir",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-18T05:59:14Z",
     "type": "Ride",
     "year": 2026
   }
