@@ -14440,6 +14440,34 @@
       "subtype": "WeightTraining",
       "type": "WeightTraining",
       "year": 2026
+    },
+    {
+      "date": "2026-07-20",
+      "hour": 17,
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-20",
+      "hour": 18,
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-21",
+      "hour": 11,
+      "subtype": "Swim",
+      "type": "Swim",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-21",
+      "hour": 15,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -30304,6 +30332,15 @@
           "distance": 24229.1,
           "elevation_gain": 280.0,
           "moving_time": 8884.0
+        },
+        "2026-07-21": {
+          "activity_ids": [
+            "19404024710"
+          ],
+          "count": 1,
+          "distance": 4083.4,
+          "elevation_gain": 43.0,
+          "moving_time": 1376.0
         }
       },
       "Swim": {
@@ -30432,6 +30469,15 @@
           "distance": 1700.1,
           "elevation_gain": 0.0,
           "moving_time": 2874.0
+        },
+        "2026-07-21": {
+          "activity_ids": [
+            "19401757477"
+          ],
+          "count": 1,
+          "distance": 1850.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2710.0
         }
       },
       "VirtualRide": {
@@ -31080,6 +31126,16 @@
           "distance": 33875.3,
           "elevation_gain": 406.0,
           "moving_time": 3320.0
+        },
+        "2026-07-20": {
+          "activity_ids": [
+            "19391245336",
+            "19391712287"
+          ],
+          "count": 2,
+          "distance": 27972.399999999998,
+          "elevation_gain": 203.0,
+          "moving_time": 2904.0
         }
       },
       "WeightTraining": {
@@ -31539,7 +31595,7 @@
       }
     }
   },
-  "generated_at": "2026-07-20T16:25:21.040590+00:00",
+  "generated_at": "2026-07-21T16:24:26.765219+00:00",
   "other_bucket": "OtherSports",
   "repo": "nickopotamus/git-sweaty",
   "source": "strava",
