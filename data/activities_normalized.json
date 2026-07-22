@@ -26863,11 +26863,24 @@
     "elevation_gain": 43.0,
     "id": "19404024710",
     "moving_time": 1376.0,
-    "name": "Afternoon Run",
+    "name": "School Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-07-21T15:10:47Z",
     "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-22",
+    "distance": 121966.0,
+    "elevation_gain": 837.0,
+    "id": "19417819425",
+    "moving_time": 14831.0,
+    "name": "Zhero day IM prep",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-22T10:14:07Z",
+    "type": "Ride",
     "year": 2026
   }
 ]
