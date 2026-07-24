@@ -26895,5 +26895,18 @@
     "start_date_local": "2026-07-23T11:06:07Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-24",
+    "distance": 11486.4,
+    "elevation_gain": 117.0,
+    "id": "19442560735",
+    "moving_time": 3858.0,
+    "name": "HM tempo intervals on the way to find breakfast",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-24T09:56:28Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
