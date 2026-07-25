@@ -26908,5 +26908,18 @@
     "start_date_local": "2026-07-24T09:56:28Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-25",
+    "distance": 10118.4,
+    "elevation_gain": 112.0,
+    "id": "19455180294",
+    "moving_time": 3625.0,
+    "name": "Near-threshold intervals",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-25T09:33:17Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
