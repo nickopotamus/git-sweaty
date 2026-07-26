@@ -26921,5 +26921,18 @@
     "start_date_local": "2026-07-25T09:33:17Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-26",
+    "distance": 30053.7,
+    "elevation_gain": 784.0,
+    "id": "19469135438",
+    "moving_time": 11606.0,
+    "name": "Very hot, hilly, and hungover",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-07-26T07:33:26Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
