@@ -26934,5 +26934,44 @@
     "start_date_local": "2026-07-26T07:33:26Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-07-28",
+    "distance": 35595.5,
+    "elevation_gain": 101.0,
+    "id": "19502648887",
+    "moving_time": 3691.0,
+    "name": "Zwift - TrainerRoad: Troll",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-28T16:40:09Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-29",
+    "distance": 30928.0,
+    "elevation_gain": 278.0,
+    "id": "19510307226",
+    "moving_time": 4017.0,
+    "name": "School dads\u2019 chain gang",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-29T06:04:53Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-29",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19515310739",
+    "moving_time": 5178.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-07-29T13:01:59Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
