@@ -14524,6 +14524,13 @@
       "subtype": "WeightTraining",
       "type": "WeightTraining",
       "year": 2026
+    },
+    {
+      "date": "2026-08-01",
+      "hour": 9,
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -30590,6 +30597,15 @@
           "distance": 30053.7,
           "elevation_gain": 784.0,
           "moving_time": 11606.0
+        },
+        "2026-08-01": {
+          "activity_ids": [
+            "19552117570"
+          ],
+          "count": 1,
+          "distance": 5003.2,
+          "elevation_gain": 92.0,
+          "moving_time": 1568.0
         }
       },
       "VirtualRide": {
@@ -31725,7 +31741,7 @@
       }
     }
   },
-  "generated_at": "2026-07-31T16:47:11.252248+00:00",
+  "generated_at": "2026-08-01T16:02:42.936663+00:00",
   "other_bucket": "OtherSports",
   "repo": "nickopotamus/git-sweaty",
   "source": "strava",

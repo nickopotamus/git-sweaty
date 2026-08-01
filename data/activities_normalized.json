@@ -26973,5 +26973,18 @@
     "start_date_local": "2026-07-29T13:01:59Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-08-01",
+    "distance": 5003.2,
+    "elevation_gain": 92.0,
+    "id": "19552117570",
+    "moving_time": 1568.0,
+    "name": "Woolacombe Dunes Parkrace",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-08-01T09:11:33Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
