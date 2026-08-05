@@ -27038,5 +27038,18 @@
     "start_date_local": "2026-08-04T08:48:46Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-08-05",
+    "distance": 10111.3,
+    "elevation_gain": 223.0,
+    "id": "19608582542",
+    "moving_time": 3526.0,
+    "name": "Headwind and hills",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-05T07:31:41Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
