@@ -27064,5 +27064,31 @@
     "start_date_local": "2026-08-06T08:22:39Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-08-09",
+    "distance": 2012.4,
+    "elevation_gain": 10.0,
+    "id": "19664272837",
+    "moving_time": 662.0,
+    "name": "Junior Parkrace with Amelia",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-09T09:05:54Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-09",
+    "distance": 14125.0,
+    "elevation_gain": 74.0,
+    "id": "19668099087",
+    "moving_time": 4834.0,
+    "name": "Taper long run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-09T12:21:19Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
