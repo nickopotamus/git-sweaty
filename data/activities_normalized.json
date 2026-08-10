@@ -27090,5 +27090,31 @@
     "start_date_local": "2026-08-09T12:21:19Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-10",
+    "distance": 36585.1,
+    "elevation_gain": 145.0,
+    "id": "19677374328",
+    "moving_time": 4673.0,
+    "name": "Meandering commute",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-10T07:10:22Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-10",
+    "distance": 13643.4,
+    "elevation_gain": 105.0,
+    "id": "19680454626",
+    "moving_time": 2094.0,
+    "name": "Segment hunting on the way home",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-10T12:44:19Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
