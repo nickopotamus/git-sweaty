@@ -27116,5 +27116,18 @@
     "start_date_local": "2026-08-10T12:44:19Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-11",
+    "distance": 16500.4,
+    "elevation_gain": 95.0,
+    "id": "19690963332",
+    "moving_time": 1822.0,
+    "name": "Zwift - Haizi Shan",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-11T06:45:41Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
