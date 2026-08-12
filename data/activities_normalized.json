@@ -27129,5 +27129,18 @@
     "start_date_local": "2026-08-11T06:45:41Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-12",
+    "distance": 5301.4,
+    "elevation_gain": 59.0,
+    "id": "19706050249",
+    "moving_time": 1894.0,
+    "name": "Taper farts",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-12T06:12:02Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
