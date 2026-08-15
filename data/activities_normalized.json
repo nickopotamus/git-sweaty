@@ -27168,5 +27168,18 @@
     "start_date_local": "2026-08-14T06:12:10Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-15",
+    "distance": 3565.3,
+    "elevation_gain": 32.0,
+    "id": "19748481136",
+    "moving_time": 1214.0,
+    "name": "Waking up the legs",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-15T09:04:56Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
