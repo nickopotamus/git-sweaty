@@ -27181,5 +27181,31 @@
     "start_date_local": "2026-08-15T09:04:56Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-16",
+    "distance": 42283.4,
+    "elevation_gain": 468.0,
+    "id": "19771037763",
+    "moving_time": 16135.0,
+    "name": "Ironman Leeds: Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-16T13:57:27Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-16",
+    "distance": 175828.0,
+    "elevation_gain": 2742.0,
+    "id": "19771037862",
+    "moving_time": 23385.0,
+    "name": "Ironman Leeds: Bike",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-16T07:19:22Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
