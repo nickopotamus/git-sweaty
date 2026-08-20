@@ -27246,5 +27246,18 @@
     "start_date_local": "2026-08-19T14:04:09Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-20",
+    "distance": 8467.7,
+    "elevation_gain": 93.0,
+    "id": "19823460254",
+    "moving_time": 3054.0,
+    "name": "Threshold intervals and thunder",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-20T13:18:16Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
