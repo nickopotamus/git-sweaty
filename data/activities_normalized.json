@@ -27272,5 +27272,31 @@
     "start_date_local": "2026-08-21T05:44:11Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-23",
+    "distance": 2002.6,
+    "elevation_gain": 7.0,
+    "id": "19860428633",
+    "moving_time": 765.0,
+    "name": "Junior Parkrace with Clara",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-23T09:04:28Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-23",
+    "distance": 13004.3,
+    "elevation_gain": 110.0,
+    "id": "19865947050",
+    "moving_time": 4762.0,
+    "name": "Long-for-this-close-to-Leeds Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-23T13:58:44Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
