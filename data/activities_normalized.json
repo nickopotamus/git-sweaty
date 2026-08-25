@@ -27298,5 +27298,44 @@
     "start_date_local": "2026-08-23T13:58:44Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19879754744",
+    "moving_time": 4239.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-24T15:29:30Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19881448222",
+    "moving_time": 1076.0,
+    "name": "Evening Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-24T18:22:14Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-25",
+    "distance": 30825.7,
+    "elevation_gain": 270.0,
+    "id": "19888170634",
+    "moving_time": 4118.0,
+    "name": "Dads\u2019 lap",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-25T06:00:06Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

@@ -14699,6 +14699,27 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-08-24",
+      "hour": 15,
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-24",
+      "hour": 18,
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-25",
+      "hour": 6,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -29972,6 +29993,15 @@
           "distance": 25949.2,
           "elevation_gain": 150.0,
           "moving_time": 4177.0
+        },
+        "2026-08-25": {
+          "activity_ids": [
+            "19888170634"
+          ],
+          "count": 1,
+          "distance": 30825.7,
+          "elevation_gain": 270.0,
+          "moving_time": 4118.0
         }
       },
       "Rowing": {
@@ -32042,6 +32072,16 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3409.0
+        },
+        "2026-08-24": {
+          "activity_ids": [
+            "19879754744",
+            "19881448222"
+          ],
+          "count": 2,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 5315.0
         }
       },
       "Workout": {
@@ -32093,7 +32133,7 @@
       }
     }
   },
-  "generated_at": "2026-08-24T15:41:16.625231+00:00",
+  "generated_at": "2026-08-25T15:43:50.076429+00:00",
   "other_bucket": "OtherSports",
   "repo": "nickopotamus/git-sweaty",
   "source": "strava",
