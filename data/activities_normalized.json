@@ -27337,5 +27337,18 @@
     "start_date_local": "2026-08-25T06:00:06Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-25",
+    "distance": 27840.6,
+    "elevation_gain": 147.0,
+    "id": "19897174528",
+    "moving_time": 2717.0,
+    "name": "Zwift - Race: Club Ladder \ud83e\ude9c 16482",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-25T18:30:18Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
