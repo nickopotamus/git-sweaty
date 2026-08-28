@@ -27350,5 +27350,18 @@
     "start_date_local": "2026-08-25T18:30:18Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-27",
+    "distance": 36364.4,
+    "elevation_gain": 251.0,
+    "id": "19920893545",
+    "moving_time": 3662.0,
+    "name": "Zwift - TrainerRoad: Tallac -2",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-27T11:12:36Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
