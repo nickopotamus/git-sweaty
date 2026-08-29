@@ -27363,5 +27363,44 @@
     "start_date_local": "2026-08-27T11:12:36Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-29",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19944514120",
+    "moving_time": 4433.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-29T06:54:03Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-29",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19945333055",
+    "moving_time": 2308.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-29T08:56:13Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-29",
+    "distance": 14021.7,
+    "elevation_gain": 153.0,
+    "id": "19949741460",
+    "moving_time": 5102.0,
+    "name": "Wet t-shirt contest",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-29T13:29:34Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
