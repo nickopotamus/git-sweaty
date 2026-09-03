@@ -27454,5 +27454,18 @@
     "start_date_local": "2026-09-01T19:23:11Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-03",
+    "distance": 8474.3,
+    "elevation_gain": 90.0,
+    "id": "20015383917",
+    "moving_time": 3016.0,
+    "name": "HM tempo intervals",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-03T06:08:40Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
