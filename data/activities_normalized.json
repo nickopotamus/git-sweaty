@@ -27532,5 +27532,31 @@
     "start_date_local": "2026-09-08T06:04:32Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-09-08",
+    "distance": 30240.1,
+    "elevation_gain": 124.0,
+    "id": "20093263436",
+    "moving_time": 3043.0,
+    "name": "Zwift - Zwift Academy Road: Workout 5 | Primed FTP",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-08T19:39:27Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-09",
+    "distance": 8694.7,
+    "elevation_gain": 87.0,
+    "id": "20099427371",
+    "moving_time": 3064.0,
+    "name": "Tour of the road closures",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-09T08:50:33Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
