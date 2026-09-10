@@ -27558,5 +27558,18 @@
     "start_date_local": "2026-09-09T08:50:33Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-10",
+    "distance": 31151.3,
+    "elevation_gain": 265.0,
+    "id": "20112316459",
+    "moving_time": 3919.0,
+    "name": "Cold-blooded MAMILs",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-10T05:52:59Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
