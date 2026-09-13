@@ -27571,5 +27571,18 @@
     "start_date_local": "2026-09-10T05:52:59Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-13",
+    "distance": 2611.7,
+    "elevation_gain": 2.1,
+    "id": "20156449701",
+    "moving_time": 3752.0,
+    "name": "Wedding punting",
+    "raw_activity_type": "StandUpPaddling",
+    "raw_type": "StandUpPaddling",
+    "start_date_local": "2026-09-13T10:48:47Z",
+    "type": "StandUpPaddling",
+    "year": 2026
   }
 ]
