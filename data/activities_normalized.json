@@ -27610,5 +27610,18 @@
     "start_date_local": "2026-09-14T17:18:30Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-09-15",
+    "distance": 32273.2,
+    "elevation_gain": 308.0,
+    "id": "20180253302",
+    "moving_time": 3662.0,
+    "name": "Zwift - TrainerRoad: Givens -3",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-15T05:52:21Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
