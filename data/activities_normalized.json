@@ -27636,5 +27636,31 @@
     "start_date_local": "2026-09-16T05:32:16Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-17",
+    "distance": 34277.3,
+    "elevation_gain": 317.0,
+    "id": "20209756510",
+    "moving_time": 3628.0,
+    "name": "Zwift - TrainerRoad: Eclipse -3",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-17T06:33:34Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-17",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20216833597",
+    "moving_time": 5676.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-09-17T16:51:44Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
