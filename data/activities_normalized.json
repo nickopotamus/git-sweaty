@@ -27662,5 +27662,18 @@
     "start_date_local": "2026-09-17T16:51:44Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-09-19",
+    "distance": 8059.0,
+    "elevation_gain": 88.0,
+    "id": "20235201833",
+    "moving_time": 2982.0,
+    "name": "Fairway VO2max session",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-19T05:45:16Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
