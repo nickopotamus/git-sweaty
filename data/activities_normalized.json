@@ -27688,5 +27688,31 @@
     "start_date_local": "2026-09-20T19:22:54Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-22",
+    "distance": 5526.8,
+    "elevation_gain": 0.0,
+    "id": "20276710065",
+    "moving_time": 969.0,
+    "name": "ZRL ITT FAIL",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-22T05:49:18Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-22",
+    "distance": 5321.1,
+    "elevation_gain": 59.0,
+    "id": "20276994621",
+    "moving_time": 1921.0,
+    "name": "ZRL angry run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-22T06:17:50Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
