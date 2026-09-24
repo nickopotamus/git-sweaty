@@ -27727,5 +27727,31 @@
     "start_date_local": "2026-09-23T18:16:27Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-09-23",
+    "distance": 8504.3,
+    "elevation_gain": 88.0,
+    "id": "20301332755",
+    "moving_time": 3015.0,
+    "name": "Evening thresholds",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-23T19:25:39Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-24",
+    "distance": 29213.5,
+    "elevation_gain": 222.0,
+    "id": "20314776967",
+    "moving_time": 3046.0,
+    "name": "Zwift - Race: Club Ladder \ud83e\ude9c 16970",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-24T19:00:11Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
