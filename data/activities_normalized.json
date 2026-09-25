@@ -27753,5 +27753,31 @@
     "start_date_local": "2026-09-24T19:00:11Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-25",
+    "distance": 9869.3,
+    "elevation_gain": 97.0,
+    "id": "20320921068",
+    "moving_time": 3378.0,
+    "name": "Robin Hood target intervals",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-25T08:51:48Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-25",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20327698783",
+    "moving_time": 2392.0,
+    "name": "Evening Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-09-25T18:52:44Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
