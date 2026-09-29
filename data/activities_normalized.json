@@ -27818,5 +27818,18 @@
     "start_date_local": "2026-09-27T09:34:12Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-29",
+    "distance": 4291.6,
+    "elevation_gain": 44.0,
+    "id": "20373520737",
+    "moving_time": 1766.0,
+    "name": "Tight calves waddle",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-29T06:25:27Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
