@@ -27831,5 +27831,18 @@
     "start_date_local": "2026-09-29T06:25:27Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-30",
+    "distance": 32215.9,
+    "elevation_gain": 260.0,
+    "id": "20388457159",
+    "moving_time": 3628.0,
+    "name": "Zwift - TrainerRoad: Pisgah",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-30T06:08:21Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
