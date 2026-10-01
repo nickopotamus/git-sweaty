@@ -27844,5 +27844,18 @@
     "start_date_local": "2026-09-30T06:08:21Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-01",
+    "distance": 5005.0,
+    "elevation_gain": 38.0,
+    "id": "20402410550",
+    "moving_time": 1954.0,
+    "name": "Not a 3 min power test",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-01T06:24:28Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
