@@ -27883,5 +27883,18 @@
     "start_date_local": "2026-10-03T13:09:02Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-10-04",
+    "distance": 9766.5,
+    "elevation_gain": 391.0,
+    "id": "20448390704",
+    "moving_time": 10431.0,
+    "name": "The kids\u2019 first Ethel",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-10-04T10:40:26Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
