@@ -27935,5 +27935,31 @@
     "start_date_local": "2026-10-07T05:45:32Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-08",
+    "distance": 16505.2,
+    "elevation_gain": 955.0,
+    "id": "20498425947",
+    "moving_time": 3632.0,
+    "name": "Zwift - TrainerRoad: Truchas -2",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-08T06:18:29Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-08",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20505697418",
+    "moving_time": 4766.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-10-08T17:26:37Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
