@@ -27961,5 +27961,31 @@
     "start_date_local": "2026-10-08T17:26:37Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-10-09",
+    "distance": 6008.7,
+    "elevation_gain": 71.0,
+    "id": "20511165484",
+    "moving_time": 2308.0,
+    "name": "Easy trot around the block",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-09T05:46:01Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-09",
+    "distance": 25257.9,
+    "elevation_gain": 196.0,
+    "id": "20518724728",
+    "moving_time": 2409.0,
+    "name": "Zwift - Race: Club Ladder \ud83e\ude9c 17199",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-09T19:00:16Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
