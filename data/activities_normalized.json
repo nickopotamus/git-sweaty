@@ -27987,5 +27987,18 @@
     "start_date_local": "2026-10-09T19:00:16Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-10",
+    "distance": 85790.0,
+    "elevation_gain": 816.0,
+    "id": "20526764459",
+    "moving_time": 13768.0,
+    "name": "Sherwood Pines Gravel X",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-10-10T08:03:44Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
