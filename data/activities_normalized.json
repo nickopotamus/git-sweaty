@@ -28013,5 +28013,31 @@
     "start_date_local": "2026-10-12T05:44:03Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-13",
+    "distance": 12878.7,
+    "elevation_gain": 40.0,
+    "id": "20563580508",
+    "moving_time": 1820.0,
+    "name": "Quicker than road works",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-13T07:01:26Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-13",
+    "distance": 12861.4,
+    "elevation_gain": 87.0,
+    "id": "20570517254",
+    "moving_time": 2163.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-13T17:22:45Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

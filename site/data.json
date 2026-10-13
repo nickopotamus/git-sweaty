@@ -15084,6 +15084,20 @@
       "subtype": "VirtualRide",
       "type": "VirtualRide",
       "year": 2026
+    },
+    {
+      "date": "2026-10-13",
+      "hour": 7,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-13",
+      "hour": 17,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -30404,6 +30418,16 @@
           "distance": 5526.8,
           "elevation_gain": 0.0,
           "moving_time": 969.0
+        },
+        "2026-10-13": {
+          "activity_ids": [
+            "20563580508",
+            "20570517254"
+          ],
+          "count": 2,
+          "distance": 25740.1,
+          "elevation_gain": 127.0,
+          "moving_time": 3983.0
         }
       },
       "Rowing": {
@@ -32953,7 +32977,7 @@
       }
     }
   },
-  "generated_at": "2026-10-12T22:25:25.574101+00:00",
+  "generated_at": "2026-10-13T20:32:46.742801+00:00",
   "other_bucket": "OtherSports",
   "repo": "nickopotamus/git-sweaty",
   "source": "strava",
