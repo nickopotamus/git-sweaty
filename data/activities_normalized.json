@@ -28033,11 +28033,37 @@
     "elevation_gain": 87.0,
     "id": "20570517254",
     "moving_time": 2163.0,
-    "name": "Afternoon Ride",
+    "name": "Dodging the roadworks",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-10-13T17:22:45Z",
     "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-14",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20577511986",
+    "moving_time": 5236.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-10-14T05:39:03Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-14",
+    "distance": 8735.5,
+    "elevation_gain": 86.0,
+    "id": "20585310495",
+    "moving_time": 3184.0,
+    "name": "Sunset VO2max intervals",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-14T17:38:43Z",
+    "type": "Run",
     "year": 2026
   }
 ]
