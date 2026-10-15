@@ -28065,5 +28065,18 @@
     "start_date_local": "2026-10-14T17:38:43Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-15",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20595968566",
+    "moving_time": 767.0,
+    "name": "Plantar Fascia Recovery",
+    "raw_activity_type": "Workout",
+    "raw_type": "PhysicalTherapy",
+    "start_date_local": "2026-10-15T14:47:52Z",
+    "type": "PhysicalTherapy",
+    "year": 2026
   }
 ]
