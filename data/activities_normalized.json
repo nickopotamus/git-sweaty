@@ -28078,5 +28078,70 @@
     "start_date_local": "2026-10-15T14:47:52Z",
     "type": "PhysicalTherapy",
     "year": 2026
+  },
+  {
+    "date": "2026-10-17",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20625475280",
+    "moving_time": 900.0,
+    "name": "GOWOD - Daily Mobility",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-10-17T19:23:40Z",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-18",
+    "distance": 1962.5,
+    "elevation_gain": 8.0,
+    "id": "20630619749",
+    "moving_time": 738.0,
+    "name": "Junior park race with Clara",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-18T09:04:49Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-18",
+    "distance": 22022.2,
+    "elevation_gain": 85.0,
+    "id": "20634541251",
+    "moving_time": 2330.0,
+    "name": "Zwift - LT finder",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-18T12:50:31Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-18",
+    "distance": 31347.4,
+    "elevation_gain": 114.0,
+    "id": "20635501595",
+    "moving_time": 2724.0,
+    "name": "Zwift - Pacer Group Ride with Jacques",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-18T13:52:09Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-18",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20638957783",
+    "moving_time": 900.0,
+    "name": "GOWOD - Daily Mobility",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-10-18T18:46:41Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
