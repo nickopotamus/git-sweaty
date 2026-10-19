@@ -28143,5 +28143,18 @@
     "start_date_local": "2026-10-18T18:46:41Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-10-19",
+    "distance": 20015.9,
+    "elevation_gain": 214.0,
+    "id": "20643489945",
+    "moving_time": 7585.0,
+    "name": "Sunrise long run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-19T05:41:35Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
