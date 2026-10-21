@@ -28182,5 +28182,44 @@
     "start_date_local": "2026-10-20T08:24:06Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-10-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20670659426",
+    "moving_time": 4423.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-10-21T05:31:01Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20674821089",
+    "moving_time": 900.0,
+    "name": "GOWOD - Daily Mobility",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-10-21T14:28:36Z",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-21",
+    "distance": 34692.1,
+    "elevation_gain": 251.0,
+    "id": "20677983269",
+    "moving_time": 3771.0,
+    "name": "Zwift - TrainerRoad: Iron Mountain",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-21T17:21:57Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
