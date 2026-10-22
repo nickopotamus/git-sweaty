@@ -28221,5 +28221,31 @@
     "start_date_local": "2026-10-21T17:21:57Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-22",
+    "distance": 9092.0,
+    "elevation_gain": 89.0,
+    "id": "20683809509",
+    "moving_time": 3072.0,
+    "name": "Near-threshold intervals in the dark",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-22T05:59:34Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-22",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20689446555",
+    "moving_time": 2219.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-10-22T15:58:16Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
