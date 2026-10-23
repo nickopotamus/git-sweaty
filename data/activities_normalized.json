@@ -28247,5 +28247,44 @@
     "start_date_local": "2026-10-22T15:58:16Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-10-23",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20703259586",
+    "moving_time": 360.0,
+    "name": "GOWOD - Cycling Activation",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-10-23T18:41:37Z",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-23",
+    "distance": 28910.6,
+    "elevation_gain": 516.0,
+    "id": "20703814285",
+    "moving_time": 2910.0,
+    "name": "Zwift - Race: Club Ladder \ud83e\ude9c 17457",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-23T19:00:14Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-23",
+    "distance": 23477.6,
+    "elevation_gain": 0.0,
+    "id": "20703826331",
+    "moving_time": 3410.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-23T18:51:58Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
