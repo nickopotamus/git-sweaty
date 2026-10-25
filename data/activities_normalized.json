@@ -28312,5 +28312,18 @@
     "start_date_local": "2026-10-24T15:53:43Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-10-25",
+    "distance": 4058.8,
+    "elevation_gain": 20.0,
+    "id": "20720877725",
+    "moving_time": 459.0,
+    "name": "Zwift - TrainerRoad: Torbert -2",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-25T06:44:36Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
