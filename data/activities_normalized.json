@@ -28325,5 +28325,31 @@
     "start_date_local": "2026-10-25T06:44:36Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-25",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20730926612",
+    "moving_time": 900.0,
+    "name": "GOWOD - Daily Mobility",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-10-25T20:50:54Z",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-26",
+    "distance": 17505.9,
+    "elevation_gain": 230.0,
+    "id": "20741801060",
+    "moving_time": 6882.0,
+    "name": "Trails in the dark",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-10-26T17:38:02Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
