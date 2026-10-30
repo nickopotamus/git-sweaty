@@ -15301,6 +15301,13 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-10-30",
+      "hour": 11,
+      "subtype": "Hike",
+      "type": "Hike",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -30371,6 +30378,15 @@
           "distance": 9766.5,
           "elevation_gain": 391.0,
           "moving_time": 10431.0
+        },
+        "2026-10-30": {
+          "activity_ids": [
+            "20793448980"
+          ],
+          "count": 1,
+          "distance": 10484.4,
+          "elevation_gain": 307.0,
+          "moving_time": 10236.0
         }
       },
       "PhysicalTherapy": {
@@ -33437,7 +33453,7 @@
       }
     }
   },
-  "generated_at": "2026-10-29T20:05:59.603972+00:00",
+  "generated_at": "2026-10-30T19:52:34.257597+00:00",
   "other_bucket": "OtherSports",
   "repo": "nickopotamus/git-sweaty",
   "source": "strava",

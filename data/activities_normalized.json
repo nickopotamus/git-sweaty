@@ -28410,11 +28410,24 @@
     "elevation_gain": 19.0,
     "id": "20781936844",
     "moving_time": 1249.0,
-    "name": "Evening Run",
+    "name": "Aborted Long Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-10-29T18:06:16Z",
     "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-30",
+    "distance": 10484.4,
+    "elevation_gain": 307.0,
+    "id": "20793448980",
+    "moving_time": 10236.0,
+    "name": "Stepping stones, cows, and wild wees",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-10-30T11:53:34Z",
+    "type": "Hike",
     "year": 2026
   }
 ]
