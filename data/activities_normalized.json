@@ -28429,5 +28429,31 @@
     "start_date_local": "2026-10-30T11:53:34Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-10-31",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20799464164",
+    "moving_time": 4017.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-10-31T06:36:06Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-31",
+    "distance": 10866.9,
+    "elevation_gain": 119.0,
+    "id": "20806057824",
+    "moving_time": 3928.0,
+    "name": "Completion long run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-31T14:32:21Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
