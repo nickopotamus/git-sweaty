@@ -28468,5 +28468,18 @@
     "start_date_local": "2026-11-02T05:38:23Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-03",
+    "distance": 18585.5,
+    "elevation_gain": 695.0,
+    "id": "20838674197",
+    "moving_time": 3627.0,
+    "name": "Zwift - TrainerRoad: Martellese",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-03T05:58:58Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
