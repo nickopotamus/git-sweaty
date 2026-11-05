@@ -28494,5 +28494,31 @@
     "start_date_local": "2026-11-04T05:56:34Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-05",
+    "distance": 32632.1,
+    "elevation_gain": 156.0,
+    "id": "20865646308",
+    "moving_time": 2837.0,
+    "name": "Zwift - TTT: WTRL Team Time Trial - Zone 1 (FRAPPE)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-05T05:04:16Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-05",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20873920179",
+    "moving_time": 480.0,
+    "name": "GOWOD - Daily Mobility",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-11-05T18:54:43Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
