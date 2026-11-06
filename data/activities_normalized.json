@@ -28520,5 +28520,18 @@
     "start_date_local": "2026-11-05T18:54:43Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-11-06",
+    "distance": 4037.0,
+    "elevation_gain": 58.0,
+    "id": "20884881250",
+    "moving_time": 1506.0,
+    "name": "Trail fartleks",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-11-06T16:44:40Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]

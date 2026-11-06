@@ -15357,6 +15357,13 @@
       "subtype": "Yoga",
       "type": "Yoga",
       "year": 2026
+    },
+    {
+      "date": "2026-11-06",
+      "hour": 16,
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -31902,6 +31909,15 @@
           "distance": 17505.9,
           "elevation_gain": 230.0,
           "moving_time": 6882.0
+        },
+        "2026-11-06": {
+          "activity_ids": [
+            "20884881250"
+          ],
+          "count": 1,
+          "distance": 4037.0,
+          "elevation_gain": 58.0,
+          "moving_time": 1506.0
         }
       },
       "VirtualRide": {
@@ -33565,7 +33581,7 @@
       }
     }
   },
-  "generated_at": "2026-11-05T21:22:07.813287+00:00",
+  "generated_at": "2026-11-06T20:43:58.701963+00:00",
   "other_bucket": "OtherSports",
   "repo": "nickopotamus/git-sweaty",
   "source": "strava",
