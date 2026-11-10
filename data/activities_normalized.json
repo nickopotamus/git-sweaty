@@ -28598,5 +28598,70 @@
     "start_date_local": "2026-11-09T20:25:06Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-11-10",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20929844075",
+    "moving_time": 5164.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-11-10T06:14:33Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-10",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20936560739",
+    "moving_time": 180.0,
+    "name": "GOWOD - Cycling Activation",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-11-10T18:17:50Z",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-10",
+    "distance": 8472.5,
+    "elevation_gain": 103.0,
+    "id": "20937008982",
+    "moving_time": 992.0,
+    "name": "Zwift - INEOS Grenadiers Virtual Training Camp | The Pre-Race Warm-up",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-10T18:38:59Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-10",
+    "distance": 23127.6,
+    "elevation_gain": 110.0,
+    "id": "20937645721",
+    "moving_time": 2373.0,
+    "name": "Zwift - Race: ClubLadder \ud83e\ude9cZSUNR Typhoons vs Valhalla Hoors \ud83d\uddfa\ufe0f EMEA 4",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-10T19:03:31Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-10",
+    "distance": 25917.2,
+    "elevation_gain": 0.0,
+    "id": "20937792107",
+    "moving_time": 3876.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-10T18:38:53Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
