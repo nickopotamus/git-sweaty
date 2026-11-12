@@ -28663,5 +28663,18 @@
     "start_date_local": "2026-11-10T18:38:53Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-11-12",
+    "distance": 21926.0,
+    "elevation_gain": 321.0,
+    "id": "20964035325",
+    "moving_time": 8942.0,
+    "name": "Made friends with an owl",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-11-12T17:20:13Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
