@@ -15441,6 +15441,13 @@
       "subtype": "TrailRun",
       "type": "TrailRun",
       "year": 2026
+    },
+    {
+      "date": "2026-11-13",
+      "hour": 16,
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -33579,6 +33586,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 5164.0
+        },
+        "2026-11-13": {
+          "activity_ids": [
+            "20974906078"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 5174.0
         }
       },
       "Workout": {
@@ -33749,7 +33765,7 @@
       }
     }
   },
-  "generated_at": "2026-11-12T21:46:15.562106+00:00",
+  "generated_at": "2026-11-13T21:15:26.914251+00:00",
   "other_bucket": "OtherSports",
   "repo": "nickopotamus/git-sweaty",
   "source": "strava",
