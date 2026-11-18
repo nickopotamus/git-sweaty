@@ -28715,5 +28715,31 @@
     "start_date_local": "2026-11-17T14:52:18Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-11-18",
+    "distance": 5763.2,
+    "elevation_gain": 11.0,
+    "id": "21038489619",
+    "moving_time": 617.0,
+    "name": "Zwift - INEOS Grenadiers Virtual Training Camp | The Pre-Race Warm-up",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-18T19:15:39Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-18",
+    "distance": 29705.7,
+    "elevation_gain": 516.0,
+    "id": "21039123269",
+    "moving_time": 3001.0,
+    "name": "Zwift - Race: DIRT Racing Series - Rotini - Stage 1 - Royal Pump Room 8 (C)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-18T19:31:58Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
