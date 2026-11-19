@@ -28741,5 +28741,31 @@
     "start_date_local": "2026-11-18T19:31:58Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-19",
+    "distance": 5210.7,
+    "elevation_gain": 15.0,
+    "id": "21050526792",
+    "moving_time": 519.0,
+    "name": "Zwift - INEOS Grenadiers Virtual Training Camp | The Pre-Race Warm-up",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-19T19:16:28Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-19",
+    "distance": 19948.0,
+    "elevation_gain": 182.0,
+    "id": "21050926790",
+    "moving_time": 1881.0,
+    "name": "Zwift - Race: ClubLadder \ud83e\ude9cElectric Spirit Co. Bohemian vs Valhalla Hoors \ud83d\uddfa\ufe0f EMEA 4",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-19T19:30:27Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
