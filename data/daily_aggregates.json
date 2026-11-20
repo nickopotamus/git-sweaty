@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T22:36:07.211623+00:00",
+  "generated_at": "2026-11-20T22:09:28.725426+00:00",
   "years": {
     "2019": {
       "Ride": {
@@ -16375,6 +16375,15 @@
           "distance": 8502.3,
           "elevation_gain": 85.0,
           "moving_time": 3092.0
+        },
+        "2026-11-20": {
+          "activity_ids": [
+            "21059796806"
+          ],
+          "count": 1,
+          "distance": 10422.4,
+          "elevation_gain": 98.0,
+          "moving_time": 3301.0
         }
       },
       "StandUpPaddling": {
@@ -18183,6 +18192,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 5871.0
+        },
+        "2026-11-20": {
+          "activity_ids": [
+            "21055308273"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4787.0
         }
       },
       "Workout": {
