@@ -28819,5 +28819,31 @@
     "start_date_local": "2026-11-23T05:52:04Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-24",
+    "distance": 43222.3,
+    "elevation_gain": 947.0,
+    "id": "21103781732",
+    "moving_time": 4713.0,
+    "name": "Zwift - Race: Zwift Racing League 2026/27 Round 2: Team Tempo - Open Cherry League Division 1 - Race 2 (B)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-24T06:02:14Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "21112378701",
+    "moving_time": 5616.0,
+    "name": "Evening Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-11-24T19:16:52Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
