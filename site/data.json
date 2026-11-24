@@ -15511,6 +15511,13 @@
       "subtype": "VirtualRide",
       "type": "VirtualRide",
       "year": 2026
+    },
+    {
+      "date": "2026-11-23",
+      "hour": 5,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -31897,6 +31904,15 @@
           "distance": 10422.4,
           "elevation_gain": 98.0,
           "moving_time": 3301.0
+        },
+        "2026-11-23": {
+          "activity_ids": [
+            "21091279920"
+          ],
+          "count": 1,
+          "distance": 9039.9,
+          "elevation_gain": 77.0,
+          "moving_time": 3225.0
         }
       },
       "StandUpPaddling": {
@@ -33893,7 +33909,7 @@
       }
     }
   },
-  "generated_at": "2026-11-22T20:57:13.493842+00:00",
+  "generated_at": "2026-11-24T02:01:53.030494+00:00",
   "other_bucket": "OtherSports",
   "repo": "nickopotamus/git-sweaty",
   "source": "strava",
