@@ -28845,5 +28845,31 @@
     "start_date_local": "2026-11-24T19:16:52Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-11-25",
+    "distance": 6458.8,
+    "elevation_gain": 12.0,
+    "id": "21123617801",
+    "moving_time": 626.0,
+    "name": "Zwift - INEOS Grenadiers Virtual Training Camp | The Pre-Race Warm-up",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-25T19:16:11Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-25",
+    "distance": 34754.5,
+    "elevation_gain": 247.0,
+    "id": "21124292357",
+    "moving_time": 3335.0,
+    "name": "Zwift - Race: DIRT Racing Series - Rotini - Stage 2 - Double Espresso (C)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-25T19:32:11Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
