@@ -28871,5 +28871,18 @@
     "start_date_local": "2026-11-25T19:32:11Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-26",
+    "distance": 26411.3,
+    "elevation_gain": 160.0,
+    "id": "21134377363",
+    "moving_time": 10098.0,
+    "name": "Extravagant school run",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-11-26T14:36:00Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
